@@ -1,6 +1,6 @@
 # MCP Docs Provider
 
-[![smithery badge](https://smithery.ai/badge/@YassineTk/mcp-docs-provider)](https://smithery.ai/server/@YassineTk/mcp-docs-provider)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.YassineTk/mcp-docs-provider)](https://lightnow.ai/servers/io.github.YassineTk/mcp-docs-provider)
 
 Documentation context provider for LLMs via MCP. This server enables AI models to seamlessly access and query your local markdown technical documentation.
 
